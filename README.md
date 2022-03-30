@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C%2b%2b)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql)
 ![OOP](https://img.shields.io/badge/-OOP-black?style=for-the-badge&logo=oop)
 ![ADS](https://img.shields.io/badge/-ADS-black?style=for-the-badge&logo=ads)
