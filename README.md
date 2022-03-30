@@ -18,5 +18,5 @@
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](t.me/kalnazarr)
 [![Python](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)](https://instagram.com/kalnazarr)
-[![Vkontakte](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://vk.com/kalnazar)
-[![Facebook](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://www.facebook.com/kalnazarr)
+[![Vkontakte](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=vkontakte)](https://vk.com/kalnazar)
+[![Facebook](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=facebook)](https://www.facebook.com/kalnazarr)
