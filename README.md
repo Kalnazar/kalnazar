@@ -4,3 +4,6 @@
 
 ### Languages and Tools
 ![Swift](https://img.shields.io/badge/-Swift-566689?style=for-the-badge&logo=swift&logoColor-000)
+![Swift](https://img.shields.io/badge/-Swift-566689?style=for-the-badge&logo=swift&logoColor-000)
+![Swift](https://img.shields.io/badge/-Swift-566689?style=for-the-badge&logo=swift&logoColor-000)
+![Swift](https://img.shields.io/badge/-Swift-566689?style=for-the-badge&logo=swift&logoColor-000)
