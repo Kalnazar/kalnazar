@@ -23,4 +23,4 @@
 
 -----------------------------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalnazar&layout=compact)](https://github.com/Kalnazar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalnazar)](https://github.com/Kalnazar)
