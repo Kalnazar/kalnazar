@@ -21,6 +21,6 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-black?style=for-the-badge&logo=vk)](https://vk.com/kalnazar)
 [![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook)](https://www.facebook.com/kalnazarr)
 
------------------------------------
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalnazar)](https://github.com/Kalnazar)
