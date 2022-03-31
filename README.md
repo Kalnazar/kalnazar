@@ -24,3 +24,8 @@
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalnazar)](https://github.com/Kalnazar)
+
+### Language proficiency
+Kazakh - native
+Russian - fluent
+English - intermediate
