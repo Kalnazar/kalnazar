@@ -29,3 +29,4 @@ English - intermediate <br/>
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalnazar)](https://github.com/Kalnazar)
+![Sayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalnazar&show_icons=true&theme=radical)
