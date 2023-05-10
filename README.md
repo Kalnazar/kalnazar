@@ -24,6 +24,6 @@
 ### Language proficiency
 Kazakh - native <br/>
 Russian - fluent <br/>
-English - upper-intermediate <br/>
+English - C1 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalnazar&hide=php&langs_count=5)](https://github.com/Kalnazar/kalnazar)
